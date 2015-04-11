@@ -3,12 +3,13 @@
   <groupId>org.simple</groupId>
   <artifactId>androideventbus</artifactId>
   <versioning>
-    <release>last.version</release>
+    <release>latest.version</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.2</version>
       <version>last.version</version>
+      <version>latest.version</version>
     </versions>
-    <lastUpdated>20150411092438</lastUpdated>
+    <lastUpdated>20150411101251</lastUpdated>
   </versioning>
 </metadata>
