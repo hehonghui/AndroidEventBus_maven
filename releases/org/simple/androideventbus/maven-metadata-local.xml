@@ -3,19 +3,14 @@
   <groupId>org.simple</groupId>
   <artifactId>androideventbus</artifactId>
   <versioning>
-    <release>latest.version</release>
+    <release>latest</release>
     <versions>
       <version>1.0.1</version>
-<<<<<<< HEAD
-      <version>latest.version</version>
-    </versions>
-    <lastUpdated>20150523051859</lastUpdated>
-=======
       <version>1.0.2</version>
       <version>last.version</version>
       <version>latest.version</version>
+      <version>latest</version>
     </versions>
-    <lastUpdated>20150411101251</lastUpdated>
->>>>>>> origin/master
+    <lastUpdated>20150523054053</lastUpdated>
   </versioning>
 </metadata>
